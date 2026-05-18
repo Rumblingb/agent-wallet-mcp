@@ -12,7 +12,7 @@ import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
-from mcp.server import Server
+from mcp.server.lowlevel import Server
 from mcp.types import Tool, TextContent
 
 # ── Data directory ──────────────────────────────────────────────────────────
