@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="80" alt="AgentPay">
+</p>
+
 # AgentWallet MCP
 
 Your agent can maintain its own sandboxed spend ledger, enforce monthly budgets on itself, transfer funds to other agents, and generate formal invoices — all without touching your financial accounts.
