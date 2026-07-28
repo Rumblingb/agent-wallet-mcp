@@ -1,0 +1,12 @@
+{
+  "name": "@rumblingb/agent-wallet-mcp",
+  "version": "1.0.1",
+  "description": "Agent wallet and budget management — create wallets, track spending, set budgets, transfer funds, generate invoices",
+  "bin": {"agent-wallet-mcp": "cli.js"},
+  "mcpName": "io.github.rumblingb/agent-wallet-mcp",
+  "keywords": ["mcp", "agentpay", "wallet", "budget", "ai"],
+  "license": "MIT",
+  "repository": {"type": "git", "url": "https://github.com/rumblingb/agent-wallet-mcp"},
+  "publishConfig": {"access": "public"},
+  "engines": {"node": ">=18.0.0"}
+}
